@@ -1,4 +1,4 @@
-# Your query-able Rails requests in Honeycomb
+# Get your Rails requests data into Honeycomb
 
 In just two lines of code, bring wonderfully query-able events representing your Ruby on Rails web requests into [Honeycomb.io](https://honeycomb.io/) with the `scout_honeycomb` gem. The gem leverages the [Scout](https://scoutapp.com) Ruby gem, which gathers detailed performance on every web request, and sends those events direct to Honeycomb.
 
